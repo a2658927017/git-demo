@@ -18,4 +18,3 @@ Hello,LP!
 Hello,LP!
 Hello,LP! master test
 Hello,LP! hot-fix test
-Hello,LP!
